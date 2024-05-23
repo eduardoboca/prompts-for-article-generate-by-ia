@@ -37,7 +37,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e ajustes no conteúdo
-- [Copilot](https://copilot.microsoft.com/) - para gerar imagens
+- [Lexica.art](https://lexica.art/) - para gerar imagens
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
 ## 📄 Prompts e ferramentas
@@ -48,21 +48,20 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | tenho um projeto publicado no github e gostaria de escrever um artigo sobre ele. O nome do projeto é YouTubeClipper, que é um ferramenta em Python para extrair informações sobre vídeos do YouTube                                                                                                                                                                                                    |
-| conteúdo | seria interessante agora definir os subtítulos do artigo
-o que vc sugere? |
+| conteúdo | seria interessante agora definir os subtítulos do artigo. o que vc sugere? |
 
 
-Lexica.art：
+Copilot：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No copilot  utilizamos o acervo público de imagens geradas por outras pessoas. Os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+• YouTube
 
 
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
+- Conteúdo gerado por humano e ajustado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
 
 ## 📚 Materiais
@@ -71,7 +70,7 @@ Lexica.art：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice, indesign para diagramação.
 
 ## 👨‍💻 Expert
 
@@ -82,20 +81,16 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspEduardo Freitas<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/eduardoboca">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/eduardo-freitas-ehff/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+por [Eduardo Freitas](https://github.com/eduardoboca)
